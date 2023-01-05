@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contact_item_textSize">20sp</dimen>
+    <dimen name="contact_item_number_marginTop">5dp</dimen>
+    <dimen name="contact_item_container_padding">10dp</dimen>
+    <dimen name="contact_item_cardElevation">4dp</dimen>
+    <dimen name="detail_contacts_textSize">20sp</dimen>
+    <dimen name="detail_padding_horizontal">20dp</dimen>
+    <dimen name="detail_padding_vertical">10dp</dimen>
+    <dimen name="fragment_contacts_list_container_width">300dp</dimen>
+    <dimen name="fragment_contacts_detail_container_width">400dp</dimen>
+</resources>
